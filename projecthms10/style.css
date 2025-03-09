@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+    padding: 20px;background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ h1{
+    color:black;
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+    
+ }
+ ul{
+    margin-bottom: 5px;
+
+ }
+ a {
+    text-decoration: tomato;
+ }
